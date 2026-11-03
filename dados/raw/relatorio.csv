@@ -4,16 +4,16 @@ lat;lon;cidade_uf
 data;12/12/1993
 responsável;lena ambrosita
 pais;brasil
-lat;lon;cidade_uf
-1.1;2;mg
-1;2;mg
-1;3;mg
-3;3;mg
-3;4;mg
-4;5;mg
-4;5;mg
-4;5;mg
-4;5;mg
+lat;lon;cidade_uf;
+1.1;2;mg;
+1;2;mg;
+1;3;mg;
+3;3;mg;
+3;4;mg;
+4;5;mg;
+4;5;mg;
+4;5;mg;
+4;5;mg;
 4;5;mg
 4;3;mg
 5;3;mg
